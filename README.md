@@ -1,5 +1,6 @@
 # MonteCarloIntegration
 Teil meiner Facharbeit im Leistungskurs Mathematik
 
-!(https://github.com/YunusMaranki/MonteCarloIntegration/blob/master/sobol1.png)
-!(https://github.com/YunusMaranki/MonteCarloIntegration/blob/master/direkteMcIntegration1.png)
+![bild1](https://github.com/YunusMaranki/MonteCarloIntegration/blob/master/sobol1.png)
+
+![bild2](https://github.com/YunusMaranki/MonteCarloIntegration/blob/master/direkteMcIntegration1.png)
